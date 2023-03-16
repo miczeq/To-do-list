@@ -1,0 +1,9 @@
+.section {
+    margin: 10px 0;
+    background: white;
+}
+
+.section__header {
+    padding: 20 px;
+}
+
